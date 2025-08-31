@@ -1,0 +1,7 @@
+#list and arrays
+
+--> empty list : list = []
+
+-->create list with initial values : list = [1,2,3,4,5]
+
+-->create list with mixed values : list = [1,'hello',3.14,True]
